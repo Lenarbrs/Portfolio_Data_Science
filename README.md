@@ -2,9 +2,7 @@
 
 ## About this repository
 
-Welcome to my small playground of data experiments.
-
-This repository gathers projects from my **data science internships** and **academic work**. Each project explores a different challenge, from **data analysis and visualization** to **machine learning and predictive modeling**.
+Welcome! This repository gathers projects from my **data science internships** and **academic work**. Each project explores a different challenge, from **data analysis and visualization** to **machine learning and predictive modeling**.
 
 ## 🧠 Natural Language Processing & Computational Linguistics
 
