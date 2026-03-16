@@ -1,0 +1,332 @@
+id,text
+34335512,"Maximus Confessor (September 11, 600 – 680s), known as Maximus the Great, was a Monk priest of the East church, which had its center at Alexandria during the Seventh Century of Constantinople patriarchate."
+43869726,Girls and Boys is a 2007 American comedy film directed by Paul Weitz and starring Paul Rudd and Seann William Scott.
+52082793,Aline Zeler (born 9 January 1975 in Ghent) is a Belgian sportswoman who played as a midfielder for the Belgian women's national football team. She was part of the team at the UEFA Women's Euro 2001. On club level she played for RSC Anderlecht in Belgium.
+8273434,"First Day For the World Cup 1995 team stats from Team 1994 performed so poorly that Management did not get a chance to reconstruct. At the World Cup's they played 8 times – 1999, 2009, 2013, 2015, 2017, 2019,"
+37897173,"Thinking Process:
+
+The user wants me to reconstruct a masked English paragraph.
+I need to replace 'x' characters with letters to form valid English words.
+Strict structural rules apply:
+- Each 'x' is one letter.
+- Word length must match exactly.
+- Non-'x' characters (spaces, punctuation, capitalization) must remain.
+- Word boundaries and spacing must be identical.
+
+Priority:
+1. Structural correctness (mandatory).
+2. Most likely real text among valid solutions.
+
+Let's break down the paragraph word by word:
+
+""Xxxxxxx xxxxxxxxx is a xxxx of the xxxxxx Xxxxxxxxxxx. It is xxxxx on Xxxxxxx.""
+
+1.  **Xxxxxxx** (7 letters, starts with capital)
+    *   Could be ""Another"", ""English"", ""General"", ""Special"", ""Primary"", ""Current"", ""However"", ""Because"", ""Perhaps"", ""Science"", ""History"", ""Culture"", ""Society"", ""Economy"", ""Company"", ""Project"", ""Problem"", ""Service"", ""Product"", ""Process"", ""Program"", ""Support"", ""Control"", ""Quality"", ""Manager"", ""Student"", ""Teacher"", ""Patient"", ""Subject"", ""Chapter"", ""Section"", ""Article"", ""Journal"", ""Website"", ""Network"", ""System"", ""Method"", ""Theory"", ""Concept"", ""Element"", ""Feature"", ""Benefit"", ""Purpose"", ""Meaning"", ""Context"", ""Content"", ""Display"", ""Address"", ""Contact"", ""Request"", ""Suggest"", ""Explain"", ""Discuss"", ""Provide"", ""Receive"", ""Include"", ""Require"", ""Develop"", ""Improve"", ""Achieve"", ""Perform"", ""Support"", ""Control"", ""Manage"", ""Create"", ""Design"", ""Produce"", ""Publish"", ""Release"", ""Present"", ""Deliver"", ""Connect"", ""Communicate"", ""Interact"", ""Observe"", ""Analyze"", ""Compare"", ""Identify"", ""Define"", ""Describe"", ""Explain"", ""Illustrate"", ""Demonstrate"", ""Evaluate"", ""Assess"", ""Measure"", ""Monitor"", ""Report"", ""Review"", ""Summarize"", ""Conclude"", ""Recommend"", ""Suggest"", ""Propose"", ""Advise"", ""Consult"", ""Inform"", ""Notify"", ""Remind"", ""Confirm"", ""Approve"", ""Accept"", ""Reject"", ""Decline"", ""Cancel"", ""Reschedule"", ""Postpone"", ""Expedite"", ""Prioritize"", ""Allocate"", ""Assign"", ""Delegate"", ""Coordinate"", ""Collaborate"", ""Cooperate"", ""Participate"", ""Contribute"", ""Volunteer"", ""Support"", ""Assist"", ""Help"", ""Guide"", ""Lead"", ""Direct"", ""Supervise"", ""Oversee"", ""Manage"", ""Govern"", ""Regulate"", ""Enforce"", ""Protect"", ""Preserve"", ""Conserve"", ""Maintain"", ""Sustain"", ""Restore"", ""Repair"", ""Replace"", ""Upgrade"", ""Update"", ""Install"", ""Configure"", ""Troubleshoot"", ""Debug"", ""Test"", ""Verify"", ""Validate"", ""Certify"", ""Accredit"", ""License"", ""Register"", ""Enroll"", ""Subscribe"", ""Register"", ""Apply"", ""Submit"", ""Request"", ""Order"", ""Purchase"", ""Buy"", ""Sell"", ""Trade"", ""Exchange"", ""Invest"", ""Finance"", ""Budget"", ""Spend"", ""Save"", ""Earn"", ""Income"", ""Revenue"", ""Profit"", ""Loss"", ""Cost"", ""Price"", ""Value"", ""Worth"", ""Asset"", ""Liability"", ""Equity"", ""Capital"", ""Market"", ""Economy"", ""Industry"", ""Sector"", ""Company"", ""Business"", ""Enterprise"", ""Venture"", ""Startup"", ""Corporation"", ""Organization"", ""Institution"", ""Agency"", ""Department"", ""Division"", ""Branch"", ""Office"", ""Factory"", ""Plant"", ""Store"", ""Shop"", ""Outlet"", ""Center"", ""Facility"", ""Campus"", ""School"", ""College"", ""University"", ""Academy"", ""Institute"", ""Library"", ""Museum"", ""Gallery"", ""Theater"", ""Cinema"", ""Stadium"", ""Arena"", ""Park"", ""Garden"", ""Zoo"", ""Beach"", ""Mountain"", ""Forest"", ""River"", ""Lake"", ""Ocean"", ""Island"", ""Country"", ""Region"", ""State"", ""Province"", ""County"", ""City"", ""Town"", ""Village"", ""District"", ""Area"", ""Location"", ""Place"", ""Site"", ""Spot"", ""Point"", ""Position"", ""Address"", ""Route"", ""Path"", ""Road"", ""Street"", ""Avenue"", ""Boulevard"", ""Highway"", ""Freeway"", ""Motorway"", ""Expressway"", ""Tunnel"", ""Bridge"", ""Airport"", ""Seaport"", ""Harbor"", ""Station"", ""Terminal"", ""Platform"", ""Vehicle"", ""Car"", ""Truck"", ""Bus"", ""Train"", ""Plane"", ""Ship"", ""Boat"", ""Bicycle"", ""Motorcycle"", ""Scooter"", ""Skateboard"", ""Rollerblade"", ""Wheelchair"", ""Stroller"", ""Wagon"", ""Cart"", ""Trolley"", ""Basket"", ""Bag"", ""Box"", ""Container"", ""Package"", ""Parcel"", ""Envelope"", ""Letter"", ""Document"", ""File"", ""Folder"", ""Binder"", ""Notebook"", ""Journal"", ""Diary"", ""Calendar"", ""Planner"", ""Schedule"", ""Agenda"", ""Meeting"", ""Appointment"", ""Event"", ""Occasion"", ""Celebration"", ""Holiday"", ""Festival"", ""Party"", ""Gathering"", ""Social"", ""Family"", ""Friend"", ""Colleague"", ""Partner"", ""Client"", ""Customer"", ""Consumer"", ""User"", ""Member"", ""Participant"", ""Attendee"", ""Visitor"", ""Guest"", ""Host"", ""Owner"", ""Manager"", ""Leader"", ""Director"", ""President"", ""CEO"", ""Chairman"", ""Secretary"", ""Treasurer"", ""Auditor"", ""Consultant"", ""Advisor"", ""Expert"", ""Specialist"", ""Professional"", ""Technician"", ""Engineer"", ""Scientist"", ""Researcher"", ""Analyst"", ""Programmer"", ""Developer"", ""Designer"", ""Artist"", ""Writer"", ""Editor"", ""Journalist"", ""Reporter"", ""Photographer"", ""Filmmaker"", ""Musician"", ""Dancer"", ""Actor"", ""Actress"", ""Singer"", ""Athlete"", ""Coach"", ""Trainer"", ""Instructor"", ""Teacher"", ""Professor"", ""Student"", ""Pupil"", ""Learner"", ""Educator"", ""Librarian"", ""Archivist"", ""Curator"", ""Historian"", ""Archaeologist"", ""Anthropologist"", ""Sociologist"", ""Psychologist"", ""Philosopher"", ""Theologian"", ""Clergyman"", ""Priest"", ""Minister"", ""Rabbi"", ""Imam"", ""Monk"", ""Nun"", ""Guru"", ""Sage"", ""Prophet"", ""Messiah"", ""Savior"", ""Redeemer"", ""Liberator"", ""Champion"", ""Hero"", ""Legend"", ""Myth"", ""Fable"", ""Tale"", ""Story"", ""Narrative"", ""Account"", ""Report"", ""Article"", ""Essay"", ""Paper"", ""Thesis"", ""Dissertation"", ""Book"", ""Novel"", ""Poem"", ""Play"", ""Script"", ""Screenplay"", ""Lyrics"", ""Song"", ""Music"", ""Melody"", ""Rhythm"", ""Harmony"", ""Chord"", ""Note"", ""Scale"", ""Tempo"", ""Genre"", ""Style"", ""Form"", ""Structure"", ""Pattern"", ""Design"", ""Shape"", ""Color"", ""Texture"", ""Material"", ""Substance"", ""Element"", ""Component"", ""Part"", ""Piece"", ""Fragment"", ""Section"", ""Segment"", ""Portion"", ""Share"", ""Slice"", ""Chunk"", ""Block"", ""Mass"", ""Volume"", ""Weight"", ""Length"", ""Width"", ""Height"", ""Depth"", ""Area"", ""Perimeter"", ""Circumference"", ""Diameter"", ""Radius"", ""Angle"", ""Curve"", ""Line"", ""Point"", ""Dot"", ""Mark"", ""Sign"", ""Symbol"", ""Icon"", ""Image"", ""Picture"", ""Photo"", ""Drawing"", ""Painting"", ""Sculpture"", ""Statue"", ""Monument"", ""Memorial"", ""Shrine"", ""Temple"", ""Church"", ""Mosque"", ""Synagogue"", ""Cathedral"", ""Basilica"", ""Chapel"", ""Convent"", ""Monastery"", ""Abbey"", ""Hermitage"", ""Retreat"", ""Sanctuary"", ""Refuge"", ""Shelter"", ""Haven"", ""Oasis"", ""Paradise"", ""Utopia"", ""Dystopia"", ""Fantasy"", ""Reality"", ""Dream"", ""Nightmare"", ""Illusion"", ""Delusion"", ""Hallucination"", ""Vision"", ""Revelation"", ""Inspiration"", ""Creativity"", ""Imagination"", ""Innovation"", ""Discovery"", ""Invention"", ""Breakthrough"", ""Revolution"", ""Evolution"", ""Progress"", ""Development"", ""Growth"", ""Expansion"", ""Increase"", ""Decrease"", ""Reduction"", ""Decline"", ""Fall"", ""Rise"", ""Ascent"", ""Descent"", ""Start"", ""Beginning"", ""End"", ""Finish"", ""Conclusion"", ""Outcome"", ""Result"", ""Consequence"", ""Effect"", ""Impact"", ""Influence"", ""Cause"", ""Reason"", ""Motive"", ""Purpose"", ""Goal"", ""Aim"", ""Objective"", ""Target"", ""Mission"", ""Vision"", ""Strategy"", ""Tactic"", ""Plan"", ""Program"", ""Project"", ""Initiative"", ""Campaign"", ""Effort"", ""Attempt"", ""Trial"", ""Experiment"", ""Research"", ""Study"", ""Analysis"", ""Investigation"", ""Exploration"", ""Discovery"", ""Inquiry"", ""Question"", ""Answer"", ""Solution"", ""Resolution"", ""Decision"", ""Choice"", ""Option"", ""Alternative"", ""Possibility"", ""Probability"
+28985107,"The area is to the northwest of the province of Western Sahara, and forms part within the region of Guelmim, and extends within the region of Guelmim."
+29512629,"The Artificial Lakes () are the two large lakes lying above the Snowy Mountains Scheme, in the Main Range of New South Wales. They were formed from glaciers and ice sheets by the Snowy Mountains Hydro-electric Authority (1956–60) and named Artificial."
+65425941,"In 1906 he was elected then to oversee electoral work, serving himself a special party election, acting in places Queensland and Sydney. Two years later, in 1908, he was elected to presidency of the Australian Electoral Council. He was by then making a reputation in the field as an electoral expert officer (or ""elector""). He took a leading role in Federal electoral administration,"
+40673733,"Margaret MacMillan (Jan 13, 1937 – Jan 3, 2017) was a Canadian-British historian who specialized in the study of global affairs. She was a research professor at King's College in London, New York from 1972 to 1997 before joining St Antony's College, Oxford University in Oxford, New York"
+357414,"2008 land use production increased at USDA's Economic study with the introduction of a new, showing large yields. This expansion led the National lands to approximately 1/3 million acres more under crop, not including existing protected wilderness areas used for preservation of natural-based ecosystems."
+37933082,"Prior to this agreement, the existing rules and regulations thereof were as follows."
+17737077,"Professor Paul Miller is a full professor at Cambridge, England, United across the North Sea. It is a World War themed museum."
+39299950,The 2007–08 FA Cup Final xxxxxx is the 110th season in xxxx xxxxxxx.
+28017802,"The 1997 John Smith Under-16 Championship (known at that time as 1997 European Championship for Boys) was the 14th edition of the John Smith Under-16 Championship. The cities of Liverpool, Sheffield and Manchester, in England, hosted the tournament. Yugoslavia won the title for the first time, the first since the founding of the tournament."
+27014228,"Manhattan is a borough in New York City, New York State, United States. It is located in New York's Upper New York Bay from the Hudson River. It contains the famous Central Park. Manhattan is named after one of its early governors and a tribe of Lenape."
+27580589,"Erbach Schwarzenbach is a town and village in Homburg Saarland, Germany. At the 1998 census it had a population of 10417."
+60224171,"Kurt Schwan (9 September 1928 – 19 June 2012) was a German mathematician. He was educated at the University of Hamburg, from which he received his diploma in 1954, his doctorate in 1957, and his habilitation in 1964. While at the University of Hamburg, he published a"
+6850592,"In 1969, four Daniel Ellsberg Robert McNamara and Editors of United States New York Times published a secret history document published Pentagon of the Department of Defense on Vietnam policy. Known as the Pentagon Papers, this report revealed a chronology of the Vietnam War and an end to the official explanations between American leaders and the American public. Many American newspapers across America published this secret report and revealed further"
+25892855,"Complete Dictionary (Brown & White.) London. - William, James, Robert, John, David"
+29982444,"Its contents include a brief detailed summary text, a comprehensive and well-organized overview and practical information, accompanied through figures with additional examples, offering step-by-step instructions helping users achieve their goals and further understanding and preparing for Jan/June and reaching their objectives. The document was as clear, concise and informative as ever."
+32406191,"The institution has chosen their business since 1993. The group is held in Washington DC, United States, where Abraham Lincoln frequently walked during the period."
+29630332,"A surprising Man receives the Christmas surprise as the members in the family kitchen. Victoria tells Man Matthew; she explains how she and Michael Matthew met and how, in order for him to win the following presidential election, he cannot acknowledge their relationship or even express romantic feelings for their future. The next day is to Rachel Rachel's to buy a dress for Man. Rachel asks Victoria to help Rachel into"
+14036561,This section states rules and implementing general policy. This section states anything not covered in the regulations or by an act of Congress will be under the jurisdiction of the Department. There will also be a Senior Review Committee of 2-4 members serving 3 year terms. This committee hears all appeals of former employees who have been removed from their positions and would like to return to it. If a party disagrees
+40861101,"Canterbury is a borough in the eastern district of Kent and England, United. In and around the borough are 16 buildings that are listed in the National Heritage List for England as designated listed buildings. Of these, one is listed at Grade I*, the highest grade, and the others are at Grade II. Most of the listed buildings are houses, or farms with associated farmsteads; the other"
+23660823,"Hercule is a fictional Belgian detective created by Agatha Christie in 1920. It features him in his first novel, The Mysterious Affair at Styles, published by the same author in the same year, which is set in Essex."
+54750273,"Thinking Process:
+
+The user wants me to reconstruct a masked English paragraph.
+I need to replace 'x' characters with letters to form valid English words.
+Strict structural rules apply:
+- Each 'x' is one letter.
+- Word length must match exactly.
+- Non-'x' characters, spacing, punctuation, capitalization must remain.
+- Output must be ONLY the reconstructed paragraph.
+
+Let's break down the paragraph word by word and try to find the most likely words.
+
+Paragraph: ""Xxxxxxx Xxxxxxxxxxx Xxxx is a xxxxxxxxxxx xxxxxxx xxxxxxx xxxxxxxxed in Xxxxxxxxxx Xxxxxxx by Xxxxxxxx Xxxxxxx Xxxxxxxxxxxx (Xxxxxxx Xxxxxxxxxxx Xxxxxxxxx) as a xxxxxx of Xxxxx.""
+
+1.  ""Xxxxxxx"" (7 letters, starts with capital)
+    Common 7-letter words: ""Project"", ""Company"", ""Service"", ""General"", ""Special"", ""Federal"", ""Central"", ""Initial"", ""Digital"", ""Natural"", ""Medical"", ""Nuclear"", ""Perfect"", ""Private"", ""Problem"", ""Program"", ""Process"", ""Product"", ""Protect"", ""Provide"", ""Publish"", ""Quality"", ""Quarter"", ""Request"", ""Require"", ""Reserve"", ""Resolve"", ""Reward"", ""Revenue"", ""Reverse"", ""Review"", ""Section"", ""Segment"", ""Select"", ""Serious"", ""Service"", ""Session"", ""Setting"", ""Similar"", ""Simple"", ""Single"", ""Society"", ""Someone"", ""Source"", ""Special"", ""Specific"", ""Station"", ""Status"", ""Storage"", ""Story"", ""Strange"", ""Student"", ""Subject"", ""Success"", ""Suggest"", ""Support"", ""Suppose"", ""Surface"", ""System"", ""Teacher"", ""Technic"", ""Through"", ""Tonight"", ""Totally"", ""Towards"", ""Traffic"", ""Training"", ""Travel"", ""Trouble"", ""Typical"", ""Unusual"", ""Various"", ""Version"", ""Victory"", ""Village"", ""Virtual"", ""Visible"", ""Visitor"", ""Waiting"", ""Walking"", ""Wanting"", ""Warning"", ""Washing"", ""Watching"", ""Wearing"", ""Weather"", ""Wedding"", ""Weekend"", ""Welcome"", ""Welfare"", ""Western"", ""Whether"", ""Whisper"", ""Winning"", ""Without"", ""Witness"", ""Wonder"", ""Working"", ""Writing"", ""Younger"", ""Yourself""
+    Given the context of ""Xxxxxxxxxxx Xxxx is a xxxxxxxxxxx xxxxxxx xxxxxxx xxxxxxxxed in Xxxxxxxxxx Xxxxxxx by Xxxxxxxx Xxxxxxx Xxxxxxxxxxxx (Xxxxxxx Xxxxxxxxxxx Xxxxxxxxx) as a xxxxxx of Xxxxx."", it sounds like a name or a title.
+    ""Project"" is a good candidate. ""Federal"", ""General"", ""Special"" could also fit.
+
+2.  ""Xxxxxxxxxxx"" (11 letters, starts with capital)
+    This is likely part of a name or a specific term.
+    If the first word is ""Project"", then ""Xxxxxxxxxxx Xxxx"" could be a project name.
+    Common 11-letter words: ""Development"", ""Information"", ""Environment"", ""Application"", ""Preparation"", ""Cooperation"", ""Explanation"", ""Observation"", ""Performance"", ""Significant"", ""Traditional"", ""Educational"", ""International"", ""Communication"", ""Organization"", ""Administration"", ""Establishment"", ""Measurement"", ""Requirement"", ""Improvement"", ""Management"", ""Government"", ""Independent"", ""Responsible"", ""Sustainable"", ""Residential"", ""Professional"", ""Technological"", ""Environmental"", ""Agricultural"", ""Pharmaceutical"", ""Manufacturing"", ""Construction"", ""Distribution"", ""Transportation"", ""Infrastructure"", ""Reconstruction"", ""Investigation"", ""Documentation"", ""Identification"", ""Qualification"", ""Certification"", ""Registration"", ""Authorization"", ""Recommendation"", ""Representation"", ""Participation"", ""Collaboration"", ""Coordination"", ""Implementation"", ""Introduction"", ""Presentation"", ""Publication"", ""Declaration"", ""Explanation"", ""Observation"", ""Interpretation"", ""Evaluation"", ""Assessment"", ""Development"", ""Investment"", ""Employment"", ""Engagement"", ""Commitment"", ""Agreement"", ""Settlement"", ""Resolution"", ""Negotiation"", ""Consultation"", ""Cooperation"", ""Partnership"", ""Leadership"", ""Membership"", ""Citizenship"", ""Fellowship"", ""Scholarship"", ""Sponsorship"", ""Guardianship"", ""Stewardship"", ""Friendship"", ""Relationship"", ""Kinship"", ""Ownership"", ""Hardship"", ""Worship"", ""Courtship"", ""Apprenticeship"", ""Craftsmanship"", ""Sportsmanship"", ""Horsemanship"", ""Seamanship"", ""Statesmanship"", ""Workmanship"", ""Salesmanship"", ""Entrepreneurship"", ""Citizenship"", ""Leadership"", ""Membership"", ""Partnership"", ""Scholarship"", ""Sponsorship"", ""Guardianship"", ""Stewardship"", ""Friendship"", ""Relationship"", ""Kinship"", ""Ownership"", ""Hardship"", ""Worship"", ""Courtship"", ""Apprenticeship"", ""Craftsmanship"", ""Sportsmanship"", ""Horsemanship"", ""Seamanship"", ""Statesmanship"", ""Workmanship"", ""Salesmanship"", ""Entrepreneurship""
+    Given the context of ""Xxxxxxxxxx Xxxxxxx by Xxxxxxxx Xxxxxxx Xxxxxxxxxxxx"", it sounds like a project or organization.
+    ""Manhattan"" is 9 letters. ""Development"" is 11. ""Experiment"" is 10.
+    ""Manhattan Project"" is a very famous project. Let's check if ""Manhattan"" fits 9 letters. No, it's 11 letters.
+    ""Manhattan"" is M-a-n-h-a-t-t-a-n (9 letters). So ""Xxxxxxxxxxx"" cannot be ""Manhattan"".
+    What about ""Development""? ""Development Project""?
+    Let's consider ""Manhattan Project"" as a strong possibility. If so, the first word would be ""Manhattan"" (9 letters) and the second ""Project"" (7 letters). This doesn't match the current lengths (7 and 11).
+
+    Let's re-evaluate. ""Xxxxxxx Xxxxxxxxxxx Xxxx""
+    Could it be ""Trinity Test Site""? No, ""Trinity"" is 7, ""Test"" is 4, ""Site"" is 4.
+    What about ""Project Manhattan""? No, ""Project"" is 7, ""Manhattan"" is 9.
+    What about ""Manhattan Project""? No, ""Manhattan"" is 9, ""Project"" is 7.
+
+    Let's look at the whole sentence again: ""Xxxxxxx Xxxxxxxxxxx Xxxx is a xxxxxxxxxxx xxxxxxx xxxxxxx xxxxxxxxed in Xxxxxxxxxx Xxxxxxx by Xxxxxxxx Xxxxxxx Xxxxxxxxxxxx (Xxxxxxx Xxxxxxxxxxx Xxxxxxxxx) as a xxxxxx of Xxxxx.""
+    The structure ""Xxxxxxx Xxxxxxxxxxx Xxxx"" sounds like a proper noun, possibly a project or a specific event.
+    ""Xxxxxxxxxx Xxxxxxx"" (10 letters, 7 letters) - This looks like a location. ""New Mexico"" (3, 6) no. ""Los Alamos"" (3, 6) no. ""United States"" (6, 6) no. ""Washington State"" (10, 5) no.
+    ""Xxxxxxxx Xxxxxxx Xxxxxxxxxxxx"" (8, 7, 12) - This is a person's name.
+    ""(Xxxxxxx Xxxxxxxxxxx Xxxxxxxxx)"" (7, 11, 9) - This is an acronym or a full name/title.
+
+    Let's try to guess the overall topic. ""Xxxxxxxxed in Xxxxxxxxxx Xxxxxxx by Xxxxxxxx Xxxxxxx Xxxxxxxxxxxx ... as a xxxxxx of Xxxxx.""
+    This sounds like a historical event, possibly related to science or military.
+    The ""Xxxxxxx Xxxxxxxxxxx Xxxxxxxxx"" (7, 11, 9) could be ""Manhattan Project Director"" or similar.
+    If it's ""Manhattan Project"", then the first part of the sentence ""Xxxxxxx Xxxxxxxxxxx Xxxx"" doesn't fit the word lengths.
+
+    Let's consider the possibility of ""Trinity Test"".
+    ""Trinity"" (7 letters) - fits ""Xxxxxxx"".
+    ""Xxxxxxxxxxx"" (11 letters) - ""Experiment""? No, 10. ""Explosion""? No, 9. ""Detonation""? No, 10.
+    ""Xxxx"" (4 letters) - ""Site""? ""Test""? ""Bomb""? ""Area""?
+
+    If the first word is ""Trinity"", then ""Trinity Xxxxxxxxxxx Xxxx"".
+    ""Trinity Test Site"" (7, 4, 4) - doesn't fit.
+    ""Trinity Test Project"" (7, 4, 7) - doesn't fit.
+    ""Trinity Nuclear Test"" (7, 7, 4) - doesn't fit.
+
+    Let's reconsider the ""Manhattan Project"" idea, but maybe the sentence is about something *related* to it, not the project itself.
+    What if ""Xxxxxxx Xxxxxxxxxxx Xxxx"" is ""Trinity Nuclear Test""?
+    ""Trinity"" (7) - fits ""Xxxxxxx"".
+    ""Nuclear"" (7) - doesn't fit ""Xxxxxxxxxxx"" (11).
+    ""Test"" (4) - fits ""Xxxx"".
+
+    This is tricky. Let's look"
+6840106,"Georgetown University is a private research university in Washington, District of Columbia."
+6787538,"Dave's Kitchen Company is a kitchen service business and foodstuff processor company by Bob and Brenda Johnson in Dallas, Texas in 1991. It was originally named as Dave's Kitchen Company but was changed to Dave's in 2001 in order to avoid confusions. The company's success started with a series of foods and food trucks to expand their reach."
+1767778,"Delonte was drafted by the Boston Celtics in the first round of the 2004 NBA Draft. He signed a three-year contract worth about $1.5 million with the team on July 26, 2004. He was placed on injured reserve on February 29 due to a torn meniscus. Delonte missed most of 2005 and 2"
+13463379,"In 1928 he was the **captain** of the **British** **Lions** **Rugby** X which **was** the **second** **match** in the 6 **game** **series**; the **tour** **that** **featured** **England** **and** **Wales**, **South** **Africa**, **Ireland** **Rugby**"
+71990109,"Helen Housby (aka Hels) is a former English women's international netballer. Hels played for Manchester Thunder. Hels's greatest achievement was representing her country at u16, u18 and senior level. Whilst playing for England vs Australia at Wembley, Hels scored a goal that, later described as that of Housby’s against Australia in 1986. Additionally Hels was"
+26075746,Xavier College is a major school in New York. It is situated within Manhattan Borough.
+17804486,"It was attended by 14 teams, and James Woods was the commissioner."
+1857539,"Well-defined, where the water is diverted from the reservoir by well-designed walls made up by well-pumping the excess pressure of the dam, which allows overflow to a lower channel behind the embankment, then flowing freely through the valley."
+8452441,2000 – Thank for Loving Me (Bon Jovi)
+10961870,"Numerous birds in or passing through California regions contain many species of birds (common red-tailed hawks), and owls (characteristic species, Barn's owl). These many habitats contain numerous invertebrates (insect's larvae), fishes (fresh-watered fishes), reptiles (California reptiles, long-tailed reptiles), plants (flowered plants) and trees (broad-leaved tree). Both coniferous trees and plants are most"
+45112113,She was born in Australia and sailed to the Western States when she was 4 months old.
+24429225,"London Times, London, a correspondent in London Times, New York Times"
+72754494,"The app was launched to 980 users in August 2012. The number of users of the platform reached 1.85 million as of August, eight months after its launch. In September 2013, John Smith announced a partnership with ABC Company to administer over 3,000 accounts of ABC clients. At the time, the company supported approximately 1"
+66287119,"Robert Morris served as president of the convention, and William Jackson served as secretary. On December 28, 1787, the convention ratified the Constitution of the United States, in a vote of 63 in favor and 11 opposed. The 63 delegates in favor affixed their names to a written copy of the Constitution, making Delaware the first of the thirteen states"
+36108762,"Edward was the son of King's Bench of Justice & Parliament (though others have confused him with the son of Sir John Popham, 1st Justice). He matriculated at Queen's College, Oxford on 30 June 1615, aged 16 and was a student of Gray's Inn in 1616. He was called to the"
+25153634,"It is found on riverbanks around Queensland and Victoria, and spreads to cover New South Wales in the Eastern region of South Australia where it grows in sandy soil or clay and forms dense mats."
+26483118,"John Hasbrouck Van Vleck (born June 6, 1906 in Madison, Wisconsin; son of a large family) was an American theoretical physicist and mathematician. He also taught at American universities."
+54483281,"Ghana participated in the FIFA U-17 World's Championship. The team went, in 2010, they defeated their group rivals. The team went there and went to be proud about, cause they won by four goals to nil against Brazil. The team were coached by Kwesi Appiah, Laryea Kingston, John Paintsil and Sammy Adjei. This was the"
+43667964,"After signing into both the first-class and one-day games for New South Wales, Silk was released from his rookie contract to a full contract with the team, and rather than going back to Sydney to play he went back to Hobart to play with the Hobart Hurricanes in the Big Bash League and Australia's domestic Twenty20 competition. He spent most of the 2016–"
+3837548,"This album is considered one of the earlier works, with nearly half of the 16 song's total time contained within the remaining 4 songs. It has influenced the American President, John Adams, who is the first and, as of 2021, most longest-lived former man to win the prize."
+16262050,"Sydney is a city and capital () in South-East Australia. It belongs to the district of Botany Bay, which is a part of Greater Sydney. The population of the suburb was estimated to be approximately 9,000 in 2001 census data."
+19513772,"Paleoanthropology is an important branch of hominin and hominoids, including ancestral hominins in the early Pleistocene (according to the textbook of the Hominidae by Smith & Jones, 2005). This branch has no exceptions."
+13758555,"Thinking Process:
+
+The user wants me to reconstruct a masked English paragraph.
+I need to replace 'x' characters with letters to form valid English words.
+Strict structural rules apply:
+- Each 'x' is one letter.
+- Word length must match exactly.
+- Non-'x' characters, spacing, punctuation, and capitalization must remain.
+- Invalid if any word violates character count.
+
+Priority:
+1. Structural correctness (mandatory).
+2. Most likely real text among valid solutions.
+
+Let's break down the paragraph word by word:
+
+""Xxxxxxxxx Xxxxs is an xxxxxxxxxxx xxxxxxxxx xxxxxxx in 2001 in Xxxxxxxx, Xxxxxx, Xxxx, xxxxxxxxxxing in xxxxxxxx xxxxxxx and xxxxxxxx xxxxxxxxxx xxxxxxxx xxxxx xxxxxxxxxs.""
+
+1.  **Xxxxxxxxx** (9 letters, capitalized)
+    *   Could be a name, a place, or a descriptive word.
+    *   Given the context ""Xxxxxxxxx Xxxxs is an..."", it's likely a proper noun, possibly a company or organization name.
+
+2.  **Xxxxs** (4 letters, capitalized)
+    *   Also likely part of a proper noun.
+    *   ""Xxxxxxxxx Xxxxs"" - common patterns: ""Google LLC"", ""Apple Inc."", ""Microsoft Corp.""
+    *   If the first word is a company, this could be ""Inc."", ""Corp."", ""Labs"", ""Arts"", ""Studios"".
+
+3.  **is an** (fixed)
+
+4.  **xxxxxxxxxxx** (11 letters)
+    *   ""is an xxxxxxxxxxx"" - likely an adjective describing the following noun.
+    *   Examples: ""international"", ""independent"", ""established"", ""innovative"", ""entertainment"".
+
+5.  **xxxxxxxxx** (9 letters)
+    *   ""an xxxxxxxxxxx xxxxxxxxx"" - another adjective or a noun.
+    *   If the previous was an adjective, this could be a noun or another adjective.
+    *   Examples: ""software"", ""technology"", ""video game"", ""multimedia"".
+
+6.  **xxxxxxx** (7 letters)
+    *   ""an xxxxxxxxxxx xxxxxxxxx xxxxxxx"" - this is likely the main noun being described.
+    *   Examples: ""company"", ""studio"", ""venture"", ""project"", ""creator"".
+
+7.  **in 2001 in** (fixed)
+
+8.  **Xxxxxxxx** (8 letters, capitalized)
+    *   ""in Xxxxxxxx"" - likely a city name.
+    *   Common 8-letter cities: ""Montreal"", ""Portland"", ""San Jose"", ""Oakland"", ""Richmond"", ""Columbus"", ""Brooklyn"".
+
+9.  **Xxxxxx** (6 letters, capitalized)
+    *   ""Xxxxxxxx, Xxxxxx"" - likely a state, province, or country.
+    *   Common 6-letter states/provinces/countries: ""Quebec"", ""Oregon"", ""Kansas"", ""Nevada"", ""Alaska"", ""France"", ""Canada"".
+
+10. **Xxxx** (4 letters, capitalized)
+    *   ""Xxxxxxxx, Xxxxxx, Xxxx"" - likely a country or a larger region if the previous was a state/province.
+    *   Common 4-letter countries: ""USA"", ""Peru"", ""Cuba"", ""Iraq"", ""Iran"", ""Mali"", ""Oman"".
+    *   If Xxxxxx was a state, Xxxx could be ""USA"".
+
+Let's try to combine these first few parts to get a coherent idea.
+""Xxxxxxxxx Xxxxs is an xxxxxxxxxxx xxxxxxxxx xxxxxxx in 2001 in Xxxxxxxx, Xxxxxx, Xxxx...""
+This sounds like a company description: ""Company Name is an [adjective] [adjective/noun] [company type] founded in [year] in [city], [state/country], [country].""
+
+Let's try some common patterns for game/tech companies founded in 2001.
+""Rockstar Games"" (8, 5) - doesn't fit ""Xxxxxxxxx Xxxxs"" (9, 4)
+""Ubisoft Inc."" (7, 4) - doesn't fit (9, 4)
+""Electronic Arts"" (10, 4) - doesn't fit (9, 4)
+""BioWare Corp."" (7, 4) - doesn't fit (9, 4)
+
+What if the first word is ""Nintendo"" (8) - no.
+What if it's ""Activision"" (10) - no.
+
+Let's reconsider ""Xxxxxxxxx Xxxxs"".
+Maybe ""Blizzard Ent."" (8, 4) - no.
+""Riot Games"" (4, 5) - no.
+
+Let's look at the rest of the sentence for clues:
+""...xxxxxxxxxxing in xxxxxxxx xxxxxxx and xxxxxxxx xxxxxxxxxx xxxxxxxx xxxxx xxxxxxxxxs.""
+This part describes what the company *does*.
+""specializing in [area 1] and [area 2] [products/services].""
+""specializing in [adjective] [noun] and [adjective] [adjective] [noun] [plural noun].""
+
+11. **xxxxxxxxxxing** (12 letters)
+    *   ""xxxxxxxxxxing in"" - likely a verb ending in -ing, describing the company's activity.
+    *   ""specializing"", ""developing"", ""producing"", ""publishing"", ""operating"".
+    *   ""specializing"" fits perfectly (12 letters).
+
+12. **in** (fixed)
+
+13. **xxxxxxxx** (8 letters)
+    *   ""in xxxxxxxx xxxxxxx"" - likely an adjective.
+    *   ""video game"", ""software"", ""digital"", ""mobile"", ""computer"".
+
+14. **xxxxxxx** (7 letters)
+    *   ""in xxxxxxxx xxxxxxx"" - likely a noun.
+    *   ""development"", ""creation"", ""design"", ""publishing"", ""services"".
+
+15. **and** (fixed)
+
+16. **xxxxxxxx** (8 letters)
+    *   ""and xxxxxxxx xxxxxxxxxx"" - another adjective.
+    *   ""interactive"", ""multimedia"", ""virtual"", ""augmented"".
+
+17. **xxxxxxxxxx** (10 letters)
+    *   ""and xxxxxxxx xxxxxxxxxx xxxxxxxx"" - another adjective or noun.
+    *   ""entertainment"", ""experiences"", ""applications"".
+
+18. **xxxxxxxx** (8 letters)
+    *   ""xxxxxxxx xxxxx xxxxxxxxxs"" - another adjective or noun.
+    *   ""software"", ""digital"", ""mobile"", ""computer"".
+
+19. **xxxxx** (5 letters)
+    *   ""xxxx xxxxxxxxxs"" - likely an adjective or noun.
+    *   ""video"", ""game"", ""media"", ""other"".
+
+20. **xxxxxxxxxs** (10 letters, plural)
+    *   ""xxxx xxxxxxxxxs"" - the plural noun for the products/services.
+    *   ""products"", ""services"", ""solutions"", ""platforms"", ""systems"", ""projects"".
+
+Let's try to piece together the ""specializing in"" part first, as it often gives strong clues about the company type.
+""specializing in **video game** development and **interactive entertainment** software **and related products**.""
+Let's check lengths:
+""specializing"" (12) - fits ""xxxxxxxxxxing""
+""in""
+""video game"" (5, 4) - doesn't fit ""xxxxxxxx xxxxxxx"" (8, 7)
+""development"" (11) - doesn't fit ""xxxxxxx"" (7)
+
+Let's try again for the ""specializing in"" part:
+""specializing in **software** development and **digital media** products and **related services**.""
+""specializing"" (12) - fits.
+""in""
+""software"" (8) - fits ""xxxxxxxx""
+""development"" (11) - doesn't fit ""xxxxxxx"" (7)
+
+How about: ""specializing in **computer** **games** and **digital** **entertainment** **software** **and other products**.""
+""specializing"" (12) - fits.
+""in""
+""computer"" (8) - fits ""xxxxxxxx""
+""games"" (5) - doesn't fit ""xxxxxxx"" (7)
+
+Let's try to find a common phrase for ""xxxxxxxx xxxxxxx"".
+""video games"" (5, 5) - no.
+""mobile apps"" (6, 4) - no.
+""software design"" (8, 6) - no.
+""game design"" (4, 6) - no.
+
+What if it's ""interactive media"" or ""digital media""?
+""digital media"" (7, 5) - no.
+""interactive media"" (10, 5) - no.
+
+Let's look at the whole phrase: ""xxxxxxxxxxing in xxxxxxxx xxxxxxx and xxxxxxxx xxxxxxxxxx xxxxxxxx xxxxx xxxxxxxxxs.""
+This structure suggests:
+Verb-"
+59028068,The 1986 World Series Of Poker was the 15th annual tournament held by the WSOP to determine the world champion of poker in the United States.
+7932291,"**This Catholic Cathedral** () was a **prominent landmark** in **El Paso**, **Texas**. It was **founded** by the **Roman Catholic Diocese** of **El Paso**. It **served** as the **headquarters** of the **Roman Catholic Church** until 2019."
+28382036,"Nicosia is a city in Cyprus Nicosia, South-East Europe, in southeastern Europe."
+967743,"In 1909, French aviator and fellow pilot Louis Bleriot crossed the English Channel ""fixed wing"" in France and suggested it might be more useful in a military than sport. However, Smithsonian Secretary Charles D. Walcott, who had supported and funded the first airplane flight, remarked, ""I wait for the experts to invent an 'fixed wing' airplane when they invent a perpetual"
+37244226,"Barnaby Rudge, Charles Dickens's work in The Examiner, 1841. Charles Dickens says: it is ""a picturesque romance, entertaining, vivid, and true. In the Christmas spirit with many ghosts and a murderer"". The novel is reprinted (2014) followed by a new text. Charles Lamb of the Shakespearean Stage Work, published by Charles William Lamb,"
+200730,"Robert William Smith, 62 King's Gardens, London W2 3AH, England (London, Kingdom)"
+17686126,Stephen Ray Vaughan of Texas (27 August 1953 – 12 June 1990)
+595421,"February 3, 1940 - The leaders of Nazi and Italy were ordered to attack the port of Rome."
+16054587,Saint-Germain () is a commune in the Yvelines department in Île-de-France in northern France.
+30323586,"After graduating as he moved after the 2009 season, Parker signed as a special assistant to the scouting division at Memphis-Grizzly Staff. The Suns coaching staff was struggling as a former assistant coach Phoenix X-Men (the X-Men) organization, as Memphis-Grizzly Staff's coaching staff was failing to keep up to the National Basketball Association (NBA)"
+53500744,"The is a genus of New-World cuckoos from the family Cuculidae. The genus was erected by German naturalist Johann Illiger in 1811. The roadrunner, the New World cuckoo bird (Geococcyx), is a terrestrial cuckoo and the genus was first recognized to diverge from Neotropical cuckoos on the Cuculidae tree although the genus is"
+1224432,He was sent to Robert Cavelier a French explorer of North America from Rouen. The party was sent to reach Quebec before the St. Lawrence freezing the river on the arrival of November to report to Frontenac's lieutenant Perrot who had received a letter. From Montreal the party took its way to Lachine and then the Ottawa River where Cavelier established a trading post in western
+71350511,"The X-Files (English: the theme song) is a song produced by American musician Mark Snow for his popular theme music, The X-Files (1994), released as its first track. It was released to radios on March 7, 1995, by Warner Bros., as the album's promotional single, replacing the B-side of ""La Chanson"
+266376,"After the death in 1817 of George Canning Jr, the father of the son who had succeeded Coleridge's patronage, Lord then generously offered Coleridge the post of poet laureate at the Royal Court, with a salary of £500 per annum, and a house within the precinct of the Court. However, it was discovered that a man lived under George III owed obligations from the"
+68341968,"Max Collins was born on 3 August 1993 in London, England. At seven years old, he was interested in football which led him to pursue a career in sportsmanship."
+21407483,"Seated Gentleman is posed, wearing a white wig, ruffles, waistcoat and gloved hands, a small table with a dark cloth and ornate legs. His head turns towards his left and he rests his left arm on the table, whilst holding with his right hand reading a small book. The room is furnished with ornamented panels, dark curtains, a carpet, an armchair with red silk velvet arms, a grandfather"
+41722301,"Hattusa, the capital is a complex of ruins of the ancient Hittites. It is found in Turkey (the Anatolian Plateau)."
+1779598,This report cited a number of violations from Barack Obama—Joe Biden during the 2012 presidential campaign.
+3004780,"The Azores is located in the heart of Portugal, Europe, with a few miles southwest from Lisbon and near Spain. It is near the coasts of Portugal, Spain, La La Palma, San Juan, Canary Islands, La Gomera, Santa Cruz, and El Hierro."
+31540738,"Published, Translated of Homer with an English Translation by A.T. Murray, M.A., and W.F. Wyatt, M.A., in 4 Volumes. Cambridge, MA, Harvard University Press; London, William Heinemann Ltd 1918. . Murray died at the Middlesex Hospital London"
+55299592,"Michael Gove a politician (born 1 March 1964) is a British politician and writer from Edinburgh. A former cabinet minister of the UK of Scotland in centre-right Tories, Gove served as Secretary of the Environment from June 2017 to January 2018 when he was removed from office following the Brexit referendum of independence."
+68165019,"Jackson was optioned to the team's minor league roster on May 20, 2022. He made his MLB debut on May 22, pitching 4.1 innings against the Chicago Cubs and recorded two earned runs. On May 23, he was optioned from the 40-man roster and assigned to Triple-A Charlotte. On May 2"
+26183938,"Joseph was born in the Bronx, and grew up in Brooklyn, New York. He was trained as a baker, allowing him to work abroad, where he opened his first shop. At age 13 he began working at a local bakery. In 1985 he was the first American baker to compete in the United States and, on a whim, decided to go to Germany. When"
+45050154,"In addition to her loving mother, Sarah is a compassionate mentor. She speaks at various gatherings, giving good advice, sharing wise words, and support, encouraging her students to reach out, pursue dreams, and to not ""give up."""
+74802989,"Koppal is a municipal and Zilla Panchayat in Koppal district of Karnataka state of Karnataka state in India. It is situated 85 km west from divisional headquarters Kalaburagi. Koppal had a total population of 2,384 persons according to Census 2011."
+41132828,"Xxxxxxxxxxx (, also known as Xxxxxxxxxxx; once known as Xxxxxxxxx) is a village in Northern Cape Province, Northern Cape, Karoo Region, South Africa, South Africa. At the 2006 census, its population was 36, in 10 households."
+3230408,"London Eye is a major hub in the South Bank of London. It overlooks the Houses of Parliament and Big Ben, and is surrounded by County Hall in the same area of Central London."
+34250477,"Ronald McDonald, the face for McDonald's ""I'm lovin' it"" from 2008 to 2012"
+41391218,The organism is about 26 cm. The organisms are found with sand and aquatic algae. The organisms are marine-dwelling. Corals have been observed on reefs in Pacific and Caribbean.
+63720724,"The Hong Kong Special Administrative Region is a statutory public body of the People's Republic of China, a sovereign state recognized under the United Nations (UN) through the Basic Law Committee of the Legislature. Its registered office is located at the 2nd Floor, Wan Chai District's Court-House, Wan Chai District, Hong Kong."
+18668020,"Many species in the wild is rare, with several new discoveries exceeding more than 3 years. Those in the wild that are of interest to humans include primates, large cats, marine mammals, endangered species, and other birds."
+22006386,"The Weimar Constitution was the 14th document of the Republic of Germany adopted and was led by Parliamentarian Friedrich Max Barth. It replaced the German Empire on 17 August 1919 after Max Weber's resignation as minister. Barth, a member of the Parliamentarian Party and the first (and so far only) from that district to ever be elected to hold a position,"
+63162707,Jean-Pierre Xxxxxx (born 25 June 1963) is a International sports athlete. He competed at the 1988 Summer Olympics and the 1992 Summer Olympics.
+73590796,"The two brothers around the woods, John and Peter. A resident of the village, John looks for Peter at every house and decides to tell him the truth of the matter. Later, they both had a chance to talk more about each other and share ideas. After the end of the matter, Sarah goes to her mother but disappears after seeing her. A man in the village discovers this and reports it to"
+18413243,"Eleanor Roosevelt was known as (Eleanor Roosevelt) (1896–1981) was a co-founder of United Nations Relief, a non-profit public organization based in London, England, Great."
+73525924,"George C. Marshall is a research center in Falls Church, Virginia, United States."
+27756716,"During the 2010–11 season, Wayne Rooney performed in the Group A, the top division of English football, and the FA Cup."
+4501636,"Michael Schumacher Editor (ed.): Statistics concerning accidents for the German Railway of Germany. Data, tables and raw survey results in microfiches, microfilms and microcomputer printouts from 27.5.1970 to 31.12.1982 . In Wiesbaden, Germany / March 1983, , pp 317th"
+55452331,Sarah is friends with Bob and Jessica. The group is said to be successful if Bob and Jessica are good friends. It is complicated if Bob and Jessica are not friends.
+25254586,"Lancelot Andrewes (theologian) (1545–1622), Archdeacon of the United Church of Westminster"
+47615576,"Suzanne Collins is a new book from Scholastic major series The for Young Readers set in Panem-era Games. This dystopian/action novel tells the story in the words of a young woman of privilege, who must overcome her prejudices, such as classism and exceptionalism, in her quest for an equitable solution to save her. Suzanne Collins was previously honored in October 2013 in the White House"
+37356041,The FA's Youth Challenge Cup is a men's association football under-21 knockout competition organised by the Football Association. The competition has been held since 1978 and serves as a developmental competition for the senior FA Cup.
+31228650,"Dimensions is a indexed database of Scholarly-Article Publications. As a resource, Dimensions has catalogued more than fifty thousand peer-reviewed publications (PPRP), which are indexed by publishers indexing scholarly articles after each update of the main database to ensure accurate metrics linked to individual works of authors. Moreover, the included PPRP are categorized automatically by subject area, journal type, publisher and cross-"
+35304238,"The United States Census 2010 took place on April 1, 2010 in all fifty states, territories. The director oversaw John Morton for the task."
+70696809,"Al Gore was born in Washington, District of Columbia, United States. He grew up in Carthage, Smith County, Tennessee and worked with his wife and children on a farm in Carthage, Tennessee. He went to public schools in Carthage, Tennessee. Gore was a lawyer and worked there. He served on the United States House from 1977 to 1985 and was the chair of the"
+1057544,Editor: 《Research》 Jon Doe and Li Johnson: Review of Chinese Education in China
+46516261,It was added to the National Register of Historic Places in 1992.
+62225274,Catherine 'Cathy' Freeman (born 1973) is a former Australian sprinter who competed mainly.
+8892012,"Born in 1912, Robert earned the BA in 1931. In March 1934 Robert joined Co-Representative and was elected to the Commissionership and later the US Congress and Board. He participated in the politics of Europe. From mid-1942 until March 1943 Robert served as a chief officer staff with the Intelligence Corps and later with"
+71031533,"The Pope and influential Xxxxx Xxxx Xxxxxxx said: ""Church has experienced a major decline in church members, and the ways that have affected them. He believes that facing the new world order should be viewed starting from the view of understanding of people, as it is a moral issue that cannot be ignored,"" he said."
+13697062,"The New York Times reported on December 22, 1895, that Poe was among approximately 20 men who robbed and killed travelers, then known as highwaymen, upon the road of John Tilling of Baltimore, Md. Poe, who traces his ancestry in Pennsylvania, Md, was also among those that were especially noted for his cruelty."
