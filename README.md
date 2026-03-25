@@ -2,9 +2,16 @@
 
 ## 👋 About
 
-This repository gathers projects from my **academic work and research internships** in data science, NLP, and computational social science.
+This repository gathers projects from my **research internships at ENS ULM and academic work** in data science, NLP, and computational social science.
 
 My work focuses on applying quantitative methods to **language, culture, and social behavior**, combining **machine learning, statistical modeling, and large-scale data analysis**.
+
+---
+
+## 🎬 Cultural Recommendation Systems
+
+- **CinéLingua — Movie Recommendation Website to learn a foreign language**
+  → Large-scale recommender system (400k movies, 52 languages) built with Python, SQL, HTML, JS and CSS
 
 ---
 
@@ -51,13 +58,6 @@ My work focuses on applying quantitative methods to **language, culture, and soc
 
 - **Global Nestedness in Cultural Data (ENS Internship 2025)**
   → Comparative analysis of 122 datasets using simulation-based nestedness metrics
-
----
-
-## 🎬 Cultural Recommendation Systems
-
-- **CinéLingua — Movie Recommendation Website to learn a foreign language**
-  → Large-scale recommender system (400k movies, 52 languages) built with Python, SQL, and web technologies
 
 ---
 
