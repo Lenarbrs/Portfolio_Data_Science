@@ -4,6 +4,7 @@
 
 🔗 **Code repository:**
 [\[Link to the full project repository\]](https://github.com/Lenarbrs/CineLingua)
+[\[Link to the website I created\]](https://rebours-lena-website.onrender.com)
 
 ---
 
@@ -80,13 +81,6 @@ Key features include:
 
 ---
 
-### 🤝 Future Extensions
-
-- collaborative filtering based on user behavior
-- personalization using user history (Spotify, Letterboxd, etc.)
-
----
-
 ## ⚙️ Tech Stack
 
 ### 🐍 Data & Backend
@@ -113,17 +107,6 @@ Key features include:
 - personalized recommendations
 - interactive interface
 - large multilingual catalog
-
----
-
-## 📊 Key Results
-
-- scalable system handling **hundreds of thousands of movies**
-- effective recommendations combining:
-  - user taste
-  - language constraints
-
-- working **web-based prototype**
 
 ---
 
