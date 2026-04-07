@@ -4,6 +4,7 @@
 
 🔗 **Code repository:**
 [\[Link to the full project repository\]](https://github.com/Lenarbrs/CineLingua)
+
 [\[Link to the website I created\]](https://rebours-lena-website.onrender.com)
 
 ---
