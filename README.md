@@ -21,6 +21,9 @@ My work focuses on applying quantitative methods to **language, culture, and soc
 - **Jabberwocky Reconstruction (ENS Internship 2026)**
   → Testing the limits of LLMs to reconstruct heavily distorted texts
 
+- **Sarcasm Detection**
+  → Developed a Neural Network model to automatically detect and classify sarcastic expressions in textual data using Natural Language Processing (NLP)
+
 - **Fake News Emotional Analysis**
   → LLM-based annotation and regression modeling of emotional patterns in misinformation
 
