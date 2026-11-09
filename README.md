@@ -6,6 +6,8 @@ This repository gathers projects from my **research internships at ENS ULM and a
 
 My work focuses on applying quantitative methods to **language, culture, and social behavior**, combining **machine learning, statistical modeling, and large-scale data analysis**.
 
+If you want to know more about me, here is my [LinkedIn](https://www.linkedin.com/in/l%C3%A9na-rebours-5a8634237/) and my [Resume](./Rebours_Lena_Resume.pdf)!
+
 ---
 
 ## 🎬 Cultural Recommendation Systems
