@@ -14,7 +14,7 @@ I am a data scientist using machine learning, statistical modelling, and large-s
 |---|---|---|---|---|---|
 | **LLMs Semantic Reconstruction**<br>[Can LLMs Recover Semantics from Syntactic Scaffolding?](NLP/llm-semantic-reconstruction)| Research project · ENS research internship | How well LLMs recover meaning from heavily redacted text | 31-condition pipeline, 3 metrics, mixed-effects regression, permutation tests | First-authored paper submitted to ACL | [Overview](NLP/llm-semantic-reconstruction) |
 | **Nestedness in Phonological Inventories**<br>[Do rare phonemes only appear alongside common ones?](computational_linguistics/phonological-nestedness)| Research project · ENS research internship | Do rare phonemes only occur with common ones? 3,020 inventories, 2,186 languages, 70 families | NODF, nestedness temperature, null models, Monte Carlo tests | First-authored paper in preparation · OSF pre-registered | [Overview](computational_linguistics/phonological-nestedness) · [Code](https://github.com/alexeykosh/2025-nestedness-project) |
-| **[Nestedness in Cultural Data]**<br>[Is nestedness a general property of cultural data?](culture_and_art_sciences/cultural-nestedness) | Research project · ENS research internship | One standardized test across 122 cultural datasets | 2 metrics, 8 null models, 8,000 simulations per matrix | First-authored paper in preparation · OSF pre-registered | [Overview](culture_and_art_sciences/cultural-nestedness) · [Code](https://github.com/Lenarbrs/2025_Global_Nestedness_Analysis) |
+| **Nestedness in Cultural Data**<br>[Is nestedness a general property of cultural data?](culture_and_art_sciences/cultural-nestedness) | Research project · ENS research internship | One standardized test across 122 cultural datasets | 2 metrics, 8 null models, 8,000 simulations per matrix | First-authored paper in preparation · OSF pre-registered | [Overview](culture_and_art_sciences/cultural-nestedness) · [Code](https://github.com/Lenarbrs/2025_Global_Nestedness_Analysis) |
 | **CinéLingua**<br>[Which film should I watch to learn a specific language?](cinelingua-recommender) | Personal project · Deployed web app | Film recommender for language learners: ~400k films, 52 languages | Content-based recommendation, TMDB API, SQL, web app | Live | [Demo](https://rebours-lena-website.onrender.com) · [Code](https://github.com/Lenarbrs/CineLingua) |
 
 ## All Projects by Area
@@ -23,7 +23,7 @@ I am a data scientist using machine learning, statistical modelling, and large-s
 
 | Project | Type | Methods | Year | Code |
 |---|---|---|---|---|
-| **LLMs Semantic Reconstruction**<br>[Can LLMs Recover Semantics from Syntactic Scaffolding?](NLP/llm-semantic-reconstruction) | Research project · ENS research internship | LLM reconstruction of masked text, BLEU / METEOR / cosine | 2026 | In repo |
+| [**LLMs Semantic Reconstruction**<br>Can LLMs Recover Semantics from Syntactic Scaffolding?](NLP/llm-semantic-reconstruction) | Research project · ENS research internship | LLM reconstruction of masked text, BLEU / METEOR / cosine | 2026 | In repo |
 | [Can a model detect sarcasm in text?](NLP/sarcasm-detection) | Academic project | Logistic regression, MLP, pivot-based MLP | 2026 | [Repo](https://github.com/Lenarbrs/2026_Sarcasm_Detection) |
 | [Do fake news headlines carry more anger and disgust?](NLP/fake-news-emotions) | Academic project | LLM annotation (Phi-4), logistic regression | 2025 | [Repo](https://github.com/Lenarbrs/Bouzid_Rebours_Exam_03) |
 
