@@ -3,6 +3,7 @@
 > Can large language models recover semantic information from heavily redacted text using syntactic cues alone? Which linguistic features contribute most to successful reconstruction?
 
 | **Period** | January 2026 – present |
+|---|---|
 | **Context** | Research internship at ENS-PSL (Paris), in collaboration with researchers from ENS and the University of Cambridge |
 | **Status** | First-authored paper submitted to ACL |
 | **Stack** | Python, pandas, Gemini 3.1 Pro, spaCy, LemmInflect, text-embedding-3-large, mixed-effects models |

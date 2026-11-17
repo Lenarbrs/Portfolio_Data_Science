@@ -1,8 +1,8 @@
 # Léna Rebours: Data Science & Computational Research Portfolio
 
-MSc in Cognitive Science at École Normale Supérieure (ENS-PSL) and École des Hautes Études en Sciences Sociales (EHESS), Paris. Bachelor's degree in Data Science and Cultural Sciences from Université PSL, Paris.
+I am a data scientist using large-scale data analysis, machine learning, and statistical modelling to study **culture, language, and social behavior**.
 
-I am a data scientist using machine learning, statistical modelling, and large-scale text analysis to study **language, culture, and social behavior**.
+MSc in Cognitive Science with a minor in Data Science at École Normale Supérieure (ENS-PSL) and École des Hautes Études en Sciences Sociales (EHESS), Paris. Bachelor's degree in Data Science and Cultural Sciences from Université PSL, Paris.
 
 📄 [CV](Rebours_Lena_Resume.pdf) · 💼 [LinkedIn](https://www.linkedin.com/in/l%C3%A9na-rebours-5a8634237/) · ✉️ lena.rebours@ens.psl.eu
 
@@ -27,13 +27,6 @@ I am a data scientist using machine learning, statistical modelling, and large-s
 | [Can a model detect sarcasm in text?](NLP/sarcasm-detection) | Academic project | Logistic regression, MLP, pivot-based MLP | 2026 | [Repo](https://github.com/Lenarbrs/2026_Sarcasm_Detection) |
 | [Do fake news headlines carry more anger and disgust?](NLP/fake-news-emotions) | Academic project | LLM annotation (Phi-4), logistic regression | 2025 | [Repo](https://github.com/Lenarbrs/Bouzid_Rebours_Exam_03) |
 
-### 🗣️ Computational Linguistics
-
-| Project | Type | Methods | Year | Code |
-|---|---|---|---|---|
-| [Nestedness: Do rare phonemes only appear alongside common ones?](computational_linguistics/phonological-nestedness) | Research project · ENS research internship | NODF, null models, Monte Carlo tests | 2025 | [Repo](https://github.com/alexeykosh/2025-nestedness-project) |
-| [What makes a language sound attractive?](computational_linguistics/language-attractiveness) | Academic research project | Custom survey, OLS, t-tests | 2024 | In repo |
-
 ### 🌍 Computational Social Sciences
 
 | Project | Type | Methods | Year | Code |
@@ -42,6 +35,13 @@ I am a data scientist using machine learning, statistical modelling, and large-s
 | [Who funds Franco-American science?](computational_social_sciences/franco-american-research-funding) | Academic research project | OpenAlex (351,765 articles), logit, OLS | 2026 | [Repo](https://github.com/lucile40lpy/2025-26_sciences_sociales_computationnelles-financement_cooperation_fr_us) |
 | [Do our cultural and geographic environments shape fear of failure?](computational_social_sciences/fear-of-failure) | Academic research project | OLS on 220 countries | 2025 | In repo |
 | [Do answers to moral dilemmas predict real-life behavior?](computational_social_sciences/behavior-thought-experiments) | Academic research project | Custom survey (114 respondents), logistic regression, χ² | 2023 | Report |
+
+### 🗣️ Computational Linguistics
+
+| Project | Type | Methods | Year | Code |
+|---|---|---|---|---|
+| [Nestedness: Do rare phonemes only appear alongside common ones?](computational_linguistics/phonological-nestedness) | Research project · ENS research internship | NODF, null models, Monte Carlo tests | 2025 | [Repo](https://github.com/alexeykosh/2025-nestedness-project) |
+| [What makes a language sound attractive?](computational_linguistics/language-attractiveness) | Academic research project | Custom survey, OLS, t-tests | 2024 | In repo |
 
 ### 🎨 Cultural Data & Art Market Analysis
 
@@ -57,6 +57,12 @@ I am a data scientist using machine learning, statistical modelling, and large-s
 | [Can we predict next year's highest-rated board games](machine_learning_and_predictive_modeling/board-game-prediction) | Academic project | Bayesian regression, PyMC, MCMC (NUTS) | 2026 | [Repo](https://github.com/Lenarbrs/2026_Board_Game_Prediction) |
 | [Can we detect a divorce storyline from a film synopsis?](machine_learning_and_predictive_modeling/divorce-detection-films) | Academic project | Logistic regression, MLP, BERT embeddings | 2024 | In repo |
 | [Which model best predicts house prices?](machine_learning_and_predictive_modeling/house-price-prediction) | Academic project | OLS, Ridge, Lasso, trees | 2024 | In repo |
+
+### 🧬 Computational Anthropology
+
+| Project | Type | Methods | Year | Code |
+|---|---|---|---|---|
+| [Why do societies develop kinship avoidance practices?](computational_anthropology/kinship-avoidance) | Academic research project | Cross-cultural analysis, phylogenetic GLS, OLS, geographical clustering | 2026 | In repo |
 
 ### 🎬 Cultural Recommendation Systems
 
